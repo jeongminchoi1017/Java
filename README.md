@@ -104,10 +104,3 @@
     3.PreparedStatement 실습하기
     4.트랜잭션 실습하기
     5.CURD 실습하기
-
-# Java
-# Java
-# Java
-# Java
-# Java
-# Java
